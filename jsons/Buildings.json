@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Workers' Club",
+        "production": 3,
+        "gold": 1,
+        "cost": 75,
+        "maintenance": 1,
+        "requiredBuilding": "Workshop",
+        "uniques": ["Limited to [3] per Civilization", "[+5]% [Production]"],
+        "requiredTech": "Metal Casting"
+    },
+    {
+        "name": "Statue of Obsession",
+        "isWonder": true,
+        "faith": 12,
+        "cost": 1200,
+        "maintenance": 5,
+        "culture": 5, 
+        "happiness": -7,
+        "uniques": ["[Military] units gain the [Pain of Soul] promotion"],
+        "quote": "'Pain gives me Obsession and strength' - A. S. Kushner",
+        "requiredTech": "Architecture"
+    },
+    {
+        "name": "Palace St. Valentina",
+        "uniqueTo": "St. Victoria",
+        "isWonder": true,
+        "cost": 1500,
+        "production": 5,
+        "science": 10,
+        "faith": 10,
+        "culture": 10, 
+        "happiness": 5, 
+        "maintenance": 15,
+        "greatPersonPoints": {"Great Artist": 2},
+        "uniques": ["[+25]% City Strength from defensive buildings"],
+        "requiredTech": "Architecture"
+    },
+    {
+        "name": "Factory St. Aurora",
+        "uniqueTo": "St. Victoria",
+        "replaces": "Factory",
+        "cost": 500,
+        "production": 7,
+        "percentStatBonus": {"production": 25},
+        "requiredBuilding": "Workshop",
+        "maintenance": 7,
+        "hurryCostModifier": 0,
+        "requiredResource": "Coal",
+        "uniques": ["Destroyed when the city is captured"],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Bar",
+        "cost": 250,
+        "maintenance": 1,
+        "happiness": 2,
+        "uniques": ["Destroyed when the city is captured", "All newly-trained [Gunpowder] units [in this city] receive the [Bar-Drink] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Bar-Drink] promotion"],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "V. Bar",
+        "uniqueTo": "St. Victoria",
+        "replaces": "Bar",
+        "cost": 250,
+        "maintenance": 1,
+        "happiness": 2,
+        "uniques": ["Limited to [4] per Civilization", "Destroyed when the city is captured", "All newly-trained [Gunpowder] units [in this city] receive the [Drink 'Bloody Mary'] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Drink 'Bloody Mary'] promotion"],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Tactical Academy",
+        "cost": 250,
+        "science": 1,
+        "maintenance": 5,
+        "requiredBuilding": "Military Academy",
+        "uniques": ["Limited to [3] per Civilization", "Destroyed when the city is captured",  
+                    "All newly-trained [Armored] units [in this city] receive the [Tactic] promotion"],
+        "requiredTech": "Military Science"
+    },
+    {
+        "name": "V. Tactical Academy",
+        "uniqueTo": "St. Victoria",
+        "cost": 250,
+        "science": 1,
+        "maintenance": 5,
+        "requiredBuilding": "Military Academy",
+        "uniques": ["Limited to [3] per Civilization", "Destroyed when the city is captured",  
+                    "All newly-trained [Armored] units [in this city] receive the [V. Tactic] promotion"],
+        "requiredTech": "Military Science"
+    },
+    {
+        "name": "V. Factory Equipment",
+        "uniqueTo": "St. Victoria",
+        "cost": 500,
+        "production": 1,
+        "maintenance": 7,
+        "requiredBuilding": "Military Base",
+        "uniques": ["Destroyed when the city is captured",
+                    "All newly-trained [Gunpowder] units [in this city] receive the [V. Additional Equipment] promotion"],
+        "requiredTech": "Replaceable Parts"
+    },
+]

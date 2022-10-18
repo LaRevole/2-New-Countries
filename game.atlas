@@ -1,0 +1,313 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bar
+  rotate: false
+  xy: 4, 4
+  size: 618, 608
+  orig: 618, 608
+  offset: 0, 0
+  index: -1
+BuildingIcons/V. Bar
+  rotate: false
+  xy: 4, 4
+  size: 618, 608
+  orig: 618, 608
+  offset: 0, 0
+  index: -1
+BuildingIcons/Factory St. Aurora
+  rotate: false
+  xy: 4, 620
+  size: 663, 671
+  orig: 663, 671
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palace St. Valentina
+  rotate: false
+  xy: 712, 1299
+  size: 615, 578
+  orig: 615, 578
+  offset: 0, 0
+  index: -1
+BuildingIcons/V. Factory Equipment
+  rotate: false
+  xy: 1293, 779
+  size: 573, 490
+  orig: 573, 490
+  offset: 0, 0
+  index: -1
+NationIcons/St. Victoria
+  rotate: false
+  xy: 675, 643
+  size: 610, 648
+  orig: 610, 648
+  offset: 0, 0
+  index: -1
+UnitIcons/Guardsman St. Elizabeth I
+  rotate: false
+  xy: 1335, 1277
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitIcons/Guardsman St. Elizabeth II
+  rotate: false
+  xy: 1335, 1277
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitIcons/RCV-013 'Hand Mary'
+  rotate: false
+  xy: 4, 1299
+  size: 700, 578
+  orig: 700, 578
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Bar-Drink
+  rotate: false
+  xy: 1293, 227
+  size: 566, 544
+  orig: 566, 544
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Drink 'Bloody Mary'
+  rotate: false
+  xy: 630, 68
+  size: 566, 544
+  orig: 566, 544
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Statue of Obsession
+  rotate: false
+  xy: 4, 4
+  size: 397, 505
+  orig: 397, 505
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tactical Academy
+  rotate: false
+  xy: 1274, 631
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/V. Tactical Academy
+  rotate: false
+  xy: 1274, 631
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/Workers' Club
+  rotate: false
+  xy: 1166, 581
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/d
+  rotate: false
+  xy: 1332, 631
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+NationIcons/Barkland
+  rotate: false
+  xy: 4, 517
+  size: 450, 480
+  orig: 450, 480
+  offset: 0, 0
+  index: -1
+UnitIcons/'Bloody Mary'
+  rotate: false
+  xy: 1890, 897
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/'Heart Mary'
+  rotate: false
+  xy: 850, 797
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Commander St. Elizabeth
+  rotate: false
+  xy: 1058, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/EV-28MW
+  rotate: false
+  xy: 1166, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Employee BS
+  rotate: false
+  xy: 462, 617
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Nationalism
+  rotate: false
+  xy: 462, 617
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+UnitIcons/Guard Soldier of Victoria
+  rotate: false
+  xy: 1274, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/RAV-001
+  rotate: false
+  xy: 1490, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/RAV-002
+  rotate: false
+  xy: 1490, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Soldier of Victoria
+  rotate: false
+  xy: 1598, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/VFT-3V.3V.1T
+  rotate: false
+  xy: 1058, 797
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/VR.EC
+  rotate: false
+  xy: 570, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/VR.EI
+  rotate: false
+  xy: 570, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/VR.EV
+  rotate: false
+  xy: 678, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/VSV-002
+  rotate: false
+  xy: 1266, 797
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/VSV-002P
+  rotate: false
+  xy: 1474, 797
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/VT-1
+  rotate: false
+  xy: 1682, 797
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/VT-2.1H
+  rotate: false
+  xy: 1890, 789
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/VT-2A
+  rotate: false
+  xy: 850, 589
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Vister
+  rotate: false
+  xy: 1058, 581
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Belief in St. Victoria
+  rotate: false
+  xy: 786, 559
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Guardsman St. Elizabeth ability
+  rotate: false
+  xy: 1814, 739
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pain of Soul
+  rotate: false
+  xy: 1382, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Tactic
+  rotate: false
+  xy: 1706, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/V. Tactic
+  rotate: false
+  xy: 1706, 689
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/V. Additional Equipment
+  rotate: false
+  xy: 462, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

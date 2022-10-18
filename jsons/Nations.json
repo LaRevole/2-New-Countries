@@ -1,0 +1,68 @@
+[
+    {
+        "name": "St. Victoria",
+        "leaderName": "Victorian X 'Unforgettable'",
+        "adjective": ["Victorian"],
+        "preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "Oh 'Unforgettable' Victorian X, Welcome to Throne of St. Victoria.",
+        "startIntroPart2": "Victorian People, World, and St. Victoria herself, expect Great, fair, and impertial Leadership from you.",
+
+        "declaringWar": "St. Victoria will become Great!",
+        "attacked": "St. Victoria will defend herself to the END!",
+        "defeated": "Vi-Victoria...",
+        "introduction": "I, Victorian X 'Unforgettable', Leader of people, World, and St. Victoria herself, welcome you.",
+
+        "neutralHello": "St. Victoria welcomes you.",
+        "neutralLetsHearIt": ["What do you?"],
+        "neutralNo": ["St. Victoria refuses."],
+        "neutralYes": ["Well."],
+
+        "hateHello": "...",
+        "hateLetsHearIt": ["What?"],
+        "hateNo": ["No."],
+        "hateYes": ["Yes."],
+
+        "tradeRequest": "St. Victoria offers you a deal.",
+        
+        "outerColor": [199, 21, 139],
+        "innerColor": [75,0,130],
+        "uniqueName": "X Victorian's Campaign",
+        "uniques": ["[+30]% Production towards any buildings that already exist in the Capital", 
+               "[+5]% [Science] <when at war>",
+               "[Military] units gain the [Belief in St. Victoria] promotion"],
+        "cities": ["St. Victoria", "St. Elizabeth", "Bloody Mary", "St. Aurora", "St. Valentina"]
+    },
+    {
+        "name": "Barkland",
+        "leaderName": "Jackson Mills",
+        "adjective": ["Barks"],
+        "preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "Once upon a time, several people separated from their tribe, in order to create a new one of their own.\n They were hunted, tried to capture, kill, but all attempts were in vain.\n After much persecution, the 'squad' still found a place and founded hia tribe\n Part of the old tribe, seeing the development of the new one, wanted to join them, the other part, to destroy.\n Because of such disagreements, it was sivided into 2 camps: 'New Order' and 'Old Order'.\n And a bloody war began between two camps of the same tribe.\n People who did not want to fight fled, having met more powerful tribes or Civilizations. They asked them to stop the tribe's war.",
+        "startIntroPart2": "And you, Jackson Mills, who found out about the request, went to stop the war between the camps. You have stood up for the 'New Order'.\n Having defeated the 'Old Order', you were awarded the hihgest honor by appointing you the Leader of the Tribe.\n Since the tribe did'n have a name, you calledz it Barkland.\n Lead Barkland to Great Development.",
+
+        "declaringWar": "War? War.",
+        "attacked": "Barkland is stronghold of New Order, and You dare not destroy it.",
+        "defeated": "Death is always near...",
+        "introduction": "Hello, stranger! Barkland welcomes You.",
+
+        "neutralHello": "Hello!",
+        "neutralLetsHearIt": ["Do you want something?"],
+        "neutralNo": ["I have to refuse."],
+        "neutralYes": ["Well."],
+
+        "hateHello": "What?",
+        "hateLetsHearIt": ["Excuse me?"],
+        "hateNo": ["No."],
+        "hateYes": ["Yes."],
+
+        "tradeRequest": "People of Barkland are asking You to listen to their proposal.",
+        
+        "outerColor": [9,132,9],
+        "innerColor": [119, 9, 0],
+        "uniqueName": "New Order Barkland",
+        "uniques": ["[+10]% [Production] <when at war>"],
+        "cities": ["Millbark", "New-Kolle", "Viceburg", "Ylsnait", "Jack-City", "Refport", "Zlastes", "Docs-Nyu", "Locke-Mi"]
+    }
+]

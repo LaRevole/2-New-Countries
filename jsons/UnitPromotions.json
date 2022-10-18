@@ -1,0 +1,34 @@
+[
+    {
+        "name": "[Guardsman St. Elizabeth] ability",
+        "uniques": ["[+100]% Strength <vs [Wounded] units>"]
+    },
+    {
+        "name": "Belief in St. Victoria",
+        "uniques": ["May heal outside of friendly territory", "[+15] HP when healing <in [Foreign Land] tiles>", "Heals [15] damage if it kills a unit"]
+    },
+    {
+        "name": "V. Additional Equipment",
+        "uniques": ["[+25]% Strength <vs [Gunpowder] units>", "[+20]% Strength <vs [Ranged Gunpowder] units>", "[+20]% Strength <vs [Armored] units>", "[+45]% Strength <vs [Siege] units>", "[+75]% Strength <vs [Helicopter] units>"],
+    },
+    {
+        "name": "Bar-Drink",
+        "uniques": ["[+15]% Strength <when defending>"]
+    },
+    {
+        "name": "Drink 'Bloody Mary'",
+        "uniques": ["[+15]% Strength <when defending>", "[+10]% Strength <when fighting in [Snow] tiles>"]
+    },
+    {
+        "name": "V. Tactic",
+        "uniques": ["[+45]% to Flank Attack bonuses", "[+35]% Strength <vs [Armored] units>", "[+50]% Strength <vs [Siege] units>", "[+75]% Strength <vs [Helicopter] units> <when defending>"]
+    },
+    {
+        "name": "Tactic",
+        "uniques": ["[+40]% to Flank Attack bonuses", "[+30]% Strength <vs [Armored] units>", "[+50]% Strength <vs [Siege] units>", "[+75]% Strength <vs [Helicopter] units> <when defending>"]
+    },
+    {
+        "name": "Pain of Soul",
+        "uniques": ["Heals [20] damage if it kills a unit", "[-15]% Strength for enemy [Military] units in adjacent [All] tiles"]
+    },
+]

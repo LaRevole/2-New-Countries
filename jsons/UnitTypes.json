@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Guard",
+        "movementType": "Land"
+    },
+    {
+        "name": "ARVEWA",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+    },
+    {
+        "name": "ARVEC",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+    },
+]
