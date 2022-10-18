@@ -1,1 +1,2 @@
-# 2-New-Countries-G-K-
+# 2-New-Countries
+Only G&K
